@@ -1,0 +1,32 @@
+// .devcontainer/devcontainer.json
+{
+  "name": "Course Codespace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/va-h/devcontainers-features/uv:1": {},
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "postCreateCommand": "uv venv --seed --clear && uv sync",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vsls-contrib.gitdoc",
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-python.black-formatter",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "tomoki1207.pdf"
+      ],
+      "settings": {
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 2000,
+        "gitdoc.enabled": true,
+        "gitdoc.autoCommitDelay": 30000,
+        "gitdoc.autopush": "onCommit",
+        "gitdoc.pushMode": "push",
+        "python.terminal.activateEnvironment": true
+      }
+    }
+  }
+}

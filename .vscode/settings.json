@@ -1,0 +1,14 @@
+{
+    "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true    
+  },
+  "jupyter.interactiveWindow.textEditor.executeSelection": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 2000,
+  "gitdoc.enabled": true,
+  "gitdoc.autoCommitDelay": 30000,  
+  "gitdoc.pushMode": "push",
+  "git.postCommitCommand": "push",
+  "python.terminal.activateEnvironment": true
+}
