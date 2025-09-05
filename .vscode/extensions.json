@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "vsls-contrib.gitdoc",
         "ms-python.python",
         "ms-toolsai.jupyter",
         "ms-python.black-formatter",
