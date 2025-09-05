@@ -65,3 +65,4 @@ df = make_sample_data()
 print(make_plot(df))
 
 # rando comment
+print("hi")
