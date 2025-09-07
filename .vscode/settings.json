@@ -1,14 +1,14 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true
-    "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
   },
   "jupyter.interactiveWindow.textEditor.executeSelection": true,
   "python.terminal.activateEnvironment": true,
   "task.autoDetect": "on",
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 2000,  
+  "files.autoSaveDelay": 2000,
   "gitdoc.enabled": true,
   "git.autofetch": true,
   "git.autofetchPeriod": 180,
