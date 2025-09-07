@@ -16,19 +16,7 @@
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "tomoki1207.pdf"
-      ],
-      "settings": {
-        "files.autoSave": "afterDelay",
-        "files.autoSaveDelay": 2000,
-        "gitdoc.enabled": true,
-        "gitdoc.autoCommitDelay": 10000,
-        "gitdoc.autoCommit": true,
-        "git.autofetch": true,
-        "git.autofetchPeriod": 180,
-        "gitdoc.autopush": "onCommit",
-        "gitdoc.pushMode": "push",
-        "python.terminal.activateEnvironment": true
-      }
+      ]
     }
   }
 }
