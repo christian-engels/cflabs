@@ -19,6 +19,7 @@
       ]
     },
     "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
         "jupyter.interactiveWindow.textEditor.executeSelection": true,
   "python.terminal.activateEnvironment": true,
   "task.autoDetect": "on",
