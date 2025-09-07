@@ -8,4 +8,6 @@ if is_codespaces():
     subprocess.run(["git", "add", "."], check=True)
     subprocess.run(["git", "commit", "-m", "Saved from GitHub Codespaces"], check=True)
     subprocess.run(["git", "push"], check=True)
-    
+else:
+    subprocess.run(["git", "add", "."], check=True)
+    subprocess.run(["git", "commit", "-m", "Saved from local computer"], check=True)
