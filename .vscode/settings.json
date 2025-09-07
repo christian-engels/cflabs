@@ -1,6 +1,5 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "jupyter.interactiveWindow.textEditor.executeSelection": true,
-  "gitdoc.enabled": true
+  "jupyter.interactiveWindow.textEditor.executeSelection": true
 }

@@ -13,8 +13,7 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot-chat",
         "ms-toolsai.jupyter",
-        "ms-python.python",
-        "vsls-contrib.gitdoc"
+        "ms-python.python"
       ]
     }
   }
