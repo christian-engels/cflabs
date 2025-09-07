@@ -12,7 +12,6 @@
         "esbenp.prettier-vscode",
         "vsls-contrib.gitdoc",
         "ms-python.python",
-        "ms-toolsai.jupyter",
         "ms-python.black-formatter",
         "GitHub.copilot-chat"
       ],
