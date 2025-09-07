@@ -13,17 +13,7 @@
         "vsls-contrib.gitdoc",
         "GitHub.copilot-chat",
         "ms-toolsai.jupyter"
-      ],
-      "settings": {
-        "editor.formatOnSave": true,
-        "jupyter.interactiveWindow.textEditor.executeSelection": true,
-        "task.autoDetect": "on",
-        "gitdoc.enabled": true,
-        "gitdoc.pushMode": "push",
-        "gitdoc.commitValidationLevel": "none",
-        "git.autofetch": true,
-        "git.autofetchPeriod": 180
-      }
+      ]
     }
   }
 }
