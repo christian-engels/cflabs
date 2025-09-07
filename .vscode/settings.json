@@ -7,12 +7,10 @@
   "python.terminal.activateEnvironment": true,
   "task.autoDetect": "on",
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 2000,        
+  "files.autoSaveDelay": 2000,  
+  "gitdoc.enabled": true,
   "git.autofetch": true,
   "git.autofetchPeriod": 180,
-  "gitdoc.autopush": "onCommit",
   "gitdoc.pushMode": "push",
-  "gitdoc.enabled": true,
-  "gitdoc.autoCommitDelay": 10000,
-  "gitdoc.autoCommit": true        
+  "gitdoc.autoCommitDelay": 10000      
 }
