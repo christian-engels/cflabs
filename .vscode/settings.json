@@ -10,9 +10,9 @@
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 2000,
   "gitdoc.enabled": true,
-  "git.autofetch": true,
-  "git.autofetchPeriod": 180,
   "gitdoc.pushMode": "push",
   "gitdoc.autoCommitDelay": 10000,
-  "gitdoc.commitValidationLevel": "none"
+  "gitdoc.commitValidationLevel": "none",
+  "git.autofetch": true,
+  "git.autofetchPeriod": 180
 }
