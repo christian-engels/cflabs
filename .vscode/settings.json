@@ -1,9 +1,9 @@
 {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
     "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.formatOnSave": true    
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "jupyter.interactiveWindow.textEditor.executeSelection": true,
   "python.terminal.activateEnvironment": true,
   "task.autoDetect": "on",
