@@ -11,17 +11,12 @@
       "extensions": [
         "esbenp.prettier-vscode",
         "vsls-contrib.gitdoc",
-        "ms-python.python",
-        "ms-python.black-formatter",
-        "GitHub.copilot-chat"
+        "GitHub.copilot-chat",
+        "ms-toolsai.jupyter"
       ],
       "settings": {
         "editor.formatOnSave": true,
-        "[python]": {
-          "editor.defaultFormatter": "ms-python.black-formatter"
-        },
         "jupyter.interactiveWindow.textEditor.executeSelection": true,
-        "python.terminal.activateEnvironment": true,
         "task.autoDetect": "on",
         "gitdoc.enabled": true,
         "gitdoc.pushMode": "push",
