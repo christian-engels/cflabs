@@ -11,6 +11,5 @@
   "gitdoc.pushMode": "push",
   "gitdoc.commitValidationLevel": "none",
   "git.autofetch": true,
-  "git.autofetchPeriod": 180,
-  "python.useEnvironmentsExtension": true
+  "git.autofetchPeriod": 180
 }
