@@ -13,5 +13,6 @@
   "git.autofetch": true,
   "git.autofetchPeriod": 180,
   "gitdoc.pushMode": "push",
-  "gitdoc.autoCommitDelay": 10000      
+  "gitdoc.autoCommitDelay": 10000,
+  "gitdoc.commitValidationLevel": "none"
 }
