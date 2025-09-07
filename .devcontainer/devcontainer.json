@@ -6,7 +6,6 @@
     "ghcr.io/va-h/devcontainers-features/uv:1": {},
     "ghcr.io/devcontainers/features/git:1": {}
   },
-  "postCreateCommand": "uv venv --seed --clear && uv sync",
   "customizations": {
     "vscode": {
       "extensions": [
@@ -25,11 +24,10 @@
         "gitdoc.autoCommitDelay": 10000,
         "gitdoc.autopush": "onCommit",
         "gitdoc.pushMode": "push",
+        "gitdoc.autoCommit": true,
         "python.terminal.activateEnvironment": true,
         "git.autofetch": true,
-        "git.autofetchPeriod": 180,
-        "terminal.integrated.showExitAlert": false,        
-        "workbench.panel.opensMaximized": "never"
+        "git.autofetchPeriod": 180
       }
     }
   }
