@@ -31,21 +31,6 @@
         "reveal": "always",
         "panel": "new"
       }
-    },
-    {
-      "label": "Enable GitDoc",
-      "type": "shell",
-      "command": "${command:gitdoc.enable}",
-      "group": "build",
-      "presentation": {
-        "echo": false,
-        "reveal": "silent",
-        "focus": false,
-        "panel": "shared"
-      },
-      "runOptions": {
-        "runOn": "folderOpen"
-      }
     }
   ]
 }
