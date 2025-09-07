@@ -20,18 +20,21 @@
       ]
     },
     "settings": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "jupyter.interactiveWindow.textEditor.executeSelection": true,
-  "python.terminal.activateEnvironment": true,
-  "task.autoDetect": "on",
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 2000,  
-  "gitdoc.enabled": true,
-  "git.autofetch": true,
-  "git.autofetchPeriod": 180,
-  "gitdoc.pushMode": "push",
-  "gitdoc.autoCommitDelay": 10000,
-  "gitdoc.commitValidationLevel": "none"
+      "editor.formatOnSave": true,
+      "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+      },
+      "jupyter.interactiveWindow.textEditor.executeSelection": true,
+      "python.terminal.activateEnvironment": true,
+      "task.autoDetect": "on",
+      "files.autoSave": "afterDelay",
+      "files.autoSaveDelay": 2000,
+      "gitdoc.enabled": true,
+      "git.autofetch": true,
+      "git.autofetchPeriod": 180,
+      "gitdoc.pushMode": "push",
+      "gitdoc.autoCommitDelay": 10000,
+      "gitdoc.commitValidationLevel": "none"
     }
-    }
+  }
 }
