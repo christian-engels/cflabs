@@ -4,5 +4,6 @@
     "editor.formatOnSave": true    
   },
   "jupyter.interactiveWindow.textEditor.executeSelection": true,
-  "python.terminal.activateEnvironment": true
+  "python.terminal.activateEnvironment": true,
+  "task.autoDetect": "on"
 }
