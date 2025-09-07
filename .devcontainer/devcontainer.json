@@ -11,9 +11,10 @@
     "vscode": {
       "extensions": [
         "esbenp.prettier-vscode",
-        "vsls-contrib.gitdoc",
         "GitHub.copilot-chat",
-        "ms-toolsai.jupyter"
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "vsls-contrib.gitdoc"
       ]
     }
   }
