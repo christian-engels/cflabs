@@ -5,5 +5,12 @@
   },
   "jupyter.interactiveWindow.textEditor.executeSelection": true,
   "python.terminal.activateEnvironment": true,
-  "task.autoDetect": "on"
+  "task.autoDetect": "on",
+  "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 2000,
+        "gitdoc.enabled": true,
+        "gitdoc.autoCommitDelay": 10000,
+        "gitdoc.autoCommit": true,
+        "git.autofetch": true,
+        "git.autofetchPeriod": 180
 }
