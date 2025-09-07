@@ -1,9 +1,10 @@
 // .devcontainer/devcontainer.json
 {
   "name": "Python for EC3318/MN3101",
-  "image": " quay.io/jupyter/base-notebook",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
-    "ghcr.io/va-h/devcontainers-features/uv:1": {}
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/va-h/devcontainers-features/uv:1": {},
   },
   "customizations": {
     "vscode": {
