@@ -1,6 +1,6 @@
 // .devcontainer/devcontainer.json
 {
-  "name": "Course Codespace",
+  "name": "Python for EC3318/MN3101",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/va-h/devcontainers-features/uv:1": {},
