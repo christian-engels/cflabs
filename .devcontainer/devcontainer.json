@@ -27,7 +27,7 @@
         "git.autofetchPeriod": 180,
         "gitdoc.autopush": "onCommit",
         "gitdoc.pushMode": "push",
-        "python.terminal.activateEnvironment": true,
+        "python.terminal.activateEnvironment": true
       }
     }
   }
