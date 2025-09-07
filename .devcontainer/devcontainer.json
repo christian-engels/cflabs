@@ -13,7 +13,8 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot-chat",
         "ms-toolsai.jupyter",
-        "ms-python.python"
+        "ms-python.python",
+        "formulahendry.code-runner"
       ]
     }
   }

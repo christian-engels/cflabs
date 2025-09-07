@@ -3,6 +3,7 @@
     "esbenp.prettier-vscode",
     "GitHub.copilot-chat",
     "tomoki1207.pdf",
-    "ms-toolsai.jupyter"
+    "ms-toolsai.jupyter",
+    "formulahendry.code-runner"
   ]
 }
