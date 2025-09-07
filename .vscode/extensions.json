@@ -1,11 +1,10 @@
 {
-    "recommendations": [
-        "esbenp.prettier-vscode",
-        "ms-python.python",
-        "ms-toolsai.jupyter",
-        "ms-python.black-formatter",
-        "GitHub.copilot",
-        "GitHub.copilot-chat",
-        "tomoki1207.pdf"
-    ]
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-python.black-formatter",
+    "GitHub.copilot-chat",
+    "tomoki1207.pdf"
+  ]
 }
