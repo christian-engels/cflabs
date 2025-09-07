@@ -14,8 +14,7 @@
         "ms-toolsai.jupyter",
         "ms-python.black-formatter",
         "GitHub.copilot",
-        "GitHub.copilot-chat",
-        "tomoki1207.pdf"
+        "GitHub.copilot-chat"
       ],
       "settings": {
         "editor.formatOnSave": true,
@@ -25,11 +24,8 @@
         "jupyter.interactiveWindow.textEditor.executeSelection": true,
         "python.terminal.activateEnvironment": true,
         "task.autoDetect": "on",
-        "files.autoSave": "afterDelay",
-        "files.autoSaveDelay": 2000,
         "gitdoc.enabled": true,
         "gitdoc.pushMode": "push",
-        "gitdoc.autoCommitDelay": 10000,
         "gitdoc.commitValidationLevel": "none",
         "git.autofetch": true,
         "git.autofetchPeriod": 180

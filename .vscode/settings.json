@@ -7,11 +7,8 @@
   "jupyter.interactiveWindow.textEditor.executeSelection": true,
   "python.terminal.activateEnvironment": true,
   "task.autoDetect": "on",
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 2000,
   "gitdoc.enabled": true,
   "gitdoc.pushMode": "push",
-  "gitdoc.autoCommitDelay": 10000,
   "gitdoc.commitValidationLevel": "none",
   "git.autofetch": true,
   "git.autofetchPeriod": 180
