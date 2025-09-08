@@ -33,6 +33,23 @@ The best part? Your Codespace comes with all the files for this course already l
 1. In VS Code, click on the **Codespaces** tab on the bottom of the left sidebar.
 2. Click on the **Stop Current Codespace** option that appears from the dropdown.
 
+### Signing and verifying with GitHub Education
+
+As a student, you should verify your student status with GitHub Education to unlock additional benefits and resources. This verification gives you:
+
+- **Increased Codespace usage**: More free computational hours each month for your coursework
+- **Access to GitHub Copilot**: AI-powered coding assistance that can help you learn and write code more effectively
+- **Free access to premium tools**: Many development tools that normally cost money become free for verified students
+- **GitHub Pro features**: Advanced repository features at no cost
+
+To verify your student status:
+1. Visit [GitHub Education](https://education.github.com/students)
+2. Click "Get student benefits"
+3. Provide proof of your student status (usually your university email address)
+4. Wait for verification (this can take a few days)
+
+**Why this matters for this course**: Without verification, you may hit usage limits on Codespaces, which could prevent you from completing your lab work. The verification process is free and ensures you have sufficient resources for all course activities.
+
 ## Workspace structure
 
 This repository contains several key directories for your work:
