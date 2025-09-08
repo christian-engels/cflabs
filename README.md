@@ -2,7 +2,7 @@
 
 <img src=".pics/01-foundation-black-text.png" alt="Workshop Logo" width="320" />
 
-Welcome to the **the GitHub site for EC3318/MN3101** that contains the files for your computational labs. This specific site is unique to you (have a look at the URL in your browser.) Importantly, you can start your Python coding environment from here without the need to install anything on your own computers.
+Welcome to the **the GitHub site for EC3318/MN3101** that contains the files for your computational labs. This specific site is unique to you (have a look at the URL in your browser.) Importantly, you can start your Python coding environment from here without the need to install anything on your own computer.
 
 ## Getting Started
 
