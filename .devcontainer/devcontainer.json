@@ -13,8 +13,13 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot-chat",
         "ms-toolsai.jupyter",
-        "ms-python.python"
-      ]
+        "ms-python.python",
+        "emeraldwalk.runonsave"
+      ],
+      "settings": {
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 1000
+      }
     }
   }
 }
