@@ -17,8 +17,14 @@
         "emeraldwalk.runonsave"
       ],
       "settings": {
-        "files.autoSave": "afterDelay",
-        "files.autoSaveDelay": 1000
+        "emeraldwalk.runonsave": {
+          "commands": [
+            {
+              "match": ".*",
+              "cmd": "/usr/local/python/current/bin/python /workspaces/cflabs/.utilities/save-files.py"
+            }
+          ]
+        }
       }
     }
   }

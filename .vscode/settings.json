@@ -2,12 +2,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "jupyter.interactiveWindow.textEditor.executeSelection": true,
-  "emeraldwalk.runonsave": {
-    "commands": [
-      {
-        "match": ".*",
-        "cmd": "/usr/local/python/current/bin/python /workspaces/cflabs/utilities/save-files.py"
-      }
-    ]
-  }
+          "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 1000
 }
