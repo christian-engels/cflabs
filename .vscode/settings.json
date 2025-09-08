@@ -6,7 +6,7 @@
     "commands": [
       {
         "match": ".*",
-        "cmd": "/usr/local/python/current/bin/python /workspaces/cflabs/save-files.py"
+        "cmd": "/usr/local/python/current/bin/python /workspaces/cflabs/utilities/save-files.py"
       }
     ]
   }
