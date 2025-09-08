@@ -9,8 +9,7 @@ def is_codespaces():
 
 
 def main():
-    here = os.path.dirname(os.path.abspath(__file__))
-    utilities_dir = os.path.join(here, "utilities")
+    utilities_dir = os.path.dirname(os.path.abspath(__file__))
 
     # Build commit message
     message = "Saved from GitHub Codespaces" if is_codespaces(
