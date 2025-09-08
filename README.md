@@ -68,7 +68,7 @@ Each programming environment comes with built-in AI assistance via GitHub Copilo
 
 All files will be saved and recorded automatically when any file is saved. Your work is continuously preserved without needing any manual intervention.
 
-# Further resources
+## Further resources
 
 - [Tidy Finance](https://www.tidy-finance.org/) - Comprehensive guide to empirical finance using modern data science tools
 - [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) - Software Carpentry tutorial for Python beginners
