@@ -15,6 +15,7 @@
         "ms-toolsai.jupyter",
         "ms-python.python",
         "GrapeCity.gc-excelviewer",
+        "ms-python.black-formatter",
         "emeraldwalk.runonsave"
       ],
       "settings": {
