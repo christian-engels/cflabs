@@ -15,8 +15,5 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true
-  },
-  "git.autofetch": true,
-  "git.autofetchPeriod": 60,
-  "git.confirmSync": false
+  }
 }
