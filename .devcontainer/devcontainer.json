@@ -3,6 +3,9 @@
   "name": "Python for EC3318/MN3101",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.11"
+    },
     "ghcr.io/va-h/devcontainers-features/uv:1": {}
   },
   "customizations": {
@@ -21,7 +24,7 @@
           "commands": [
             {
               "match": ".*",
-              "cmd": "/usr/local/python/current/bin/python /workspaces/cflabs/.utilities/save-files.py"
+              "cmd": "python3 ${workspaceFolder}/.utilities/save-files.py"
             }
           ]
         }
